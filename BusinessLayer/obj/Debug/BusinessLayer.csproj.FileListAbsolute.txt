@@ -1,0 +1,15 @@
+C:\Users\saimi\Documents\workspace\.Net\QUANLYKHACHSAN\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+C:\Users\saimi\Documents\workspace\.Net\QUANLYKHACHSAN\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\saimi\Documents\workspace\.Net\QUANLYKHACHSAN\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\saimi\Documents\workspace\.Net\QUANLYKHACHSAN\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\saimi\Documents\workspace\.Net\QUANLYKHACHSAN\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\saimi\Documents\workspace\.Net\QUANLYKHACHSAN\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\saimi\Documents\workspace\.Net\QUANLYKHACHSAN\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\saimi\Documents\workspace\.Net\QUANLYKHACHSAN\BusinessLayer\bin\Debug\DataLayer.dll.config
+C:\Users\saimi\Documents\workspace\.Net\QUANLYKHACHSAN\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\saimi\Documents\workspace\.Net\QUANLYKHACHSAN\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\saimi\Documents\workspace\.Net\QUANLYKHACHSAN\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\saimi\Documents\workspace\.Net\QUANLYKHACHSAN\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\saimi\Documents\workspace\.Net\QUANLYKHACHSAN\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\saimi\Documents\workspace\.Net\QUANLYKHACHSAN\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\saimi\Documents\workspace\.Net\QUANLYKHACHSAN\BusinessLayer\obj\Debug\BusinessLayer.pdb
