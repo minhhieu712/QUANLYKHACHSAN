@@ -59,6 +59,8 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SANPHAM.cs" />
     <Compile Include="TANG.cs" />
+    <Compile Include="THIETBI.cs" />
+    <Compile Include="THIETBI_PHONG.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\DataLayer\DataLayer.csproj">

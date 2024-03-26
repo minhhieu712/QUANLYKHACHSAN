@@ -63,3 +63,4 @@ C:\Users\saimi\Documents\workspace\.Net\QUANLYKHACHSAN\ungDung\obj\Debug\ungDung
 C:\Users\saimi\Documents\workspace\.Net\QUANLYKHACHSAN\ungDung\obj\Debug\ungDung.frmTang.resources
 C:\Users\saimi\Documents\workspace\.Net\QUANLYKHACHSAN\ungDung\obj\Debug\ungDung.frmThietBiPhong.resources
 C:\Users\saimi\Documents\workspace\.Net\QUANLYKHACHSAN\ungDung\obj\Debug\ungDung.frmSanPham.resources
+C:\Users\saimi\Documents\workspace\.Net\QUANLYKHACHSAN\ungDung\obj\Debug\ungDung.frmThietBi.resources
